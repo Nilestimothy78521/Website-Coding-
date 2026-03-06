@@ -49,6 +49,16 @@ p {
 
   <link rel="stylesheet"href = "https://www.w3schools.com/w3css/5/w3.css">
 
+<link rel="stylesheet"href="https://fonts.googleapis.com/css?family=Roboto">
+
+body,h1,h2,h3,h4,h5,h6{font-family:Roboto,sans-serif;}
+
+<link rel="stylesheet"href="https://fonts.googleapis.com/css?family=sofia">
+
+body,h1,h2,h3,h4,h5,h6{font-family:Sofia, serif:}
+
+<link rel="stylesheet"href="https://fonts.googleapis.com/css?family=Sofia">
+
   
 
 
